@@ -3,7 +3,7 @@ import requests
 from streamlit_lottie import st_lottie
 import time
 
-st.set_page_config(page_title="HI Venuri!", page_icon=":tada:", layout="wide")
+st.set_page_config(page_title="Happy Birthday Venuri!", page_icon=":tada:", layout="wide")
 
 def local_css(file_name):
     with open(file_name) as f:
